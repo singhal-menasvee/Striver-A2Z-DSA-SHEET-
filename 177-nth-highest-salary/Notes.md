@@ -1,0 +1,1 @@
+<h2>nth-highest-salary Notes</h2><hr>[ Time taken: 12d 11hrs 36m 2s ]
